@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafa-pxs
-- 👀 I’m interested in Everything in Front-end.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter, react-native, React.
+- 👀 I’m interested in any technology.
+- 🌱 I’m currently working on Angular, ReactNative, Low Code.
+- 💞️ I’m looking to collaborate on Flutter, react-native, and React.
 - 📫 How to reach me(think about way to do so).
 
 <!---
